@@ -1,0 +1,10 @@
+<GroupOfPeople>
+<Person gender="male">
+<Name>Field Cady</Name>
+<Profession>Data Scientist</Profession>
+</Person>
+<Person gender="female">
+<Name>Ryna</Name>
+<Profession>Engineer</Profession>
+</Person>
+</GroupOfPeople>
